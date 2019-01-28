@@ -1,0 +1,6 @@
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\bin\Debug\Jaarittelu_chat_client.exe.config
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\bin\Debug\Jaarittelu_chat_client.exe
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\bin\Debug\Jaarittelu_chat_client.pdb
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\obj\Debug\Jaarittelu_chat_client.csprojResolveAssemblyReference.cache
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\obj\Debug\Jaarittelu_chat_client.exe
+e:\users\hunter\documents\visual studio 2017\Projects\Jaarittelu_chat_client\Jaarittelu_chat_client\obj\Debug\Jaarittelu_chat_client.pdb
